@@ -1,1 +1,5 @@
+version: STSv1
+mode: enforce
+mx: mail.laufer24.eu
+max_age: 86400
 
